@@ -4,7 +4,7 @@
 
 ## Dataset
 
-The dataset by company Prosper contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset can be found [here] (https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv), with data dictionary explaining the variables in the data set [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
+The dataset by company Prosper contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv), with data dictionary explaining the variables in the data set [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
 The main feature of interest in this dataset was to find out what influences the borrower's Annual Percentage Rate (APR) for the loan. For this purpose, several variables were chosen:
 
 Data that describes Listing: 'ListingKey', 'ListingCreationDate', 'Term', 'LoanStatus', 'BorrowerAPR',  'ProsperRating (Alpha)', 'ProsperScore', 'ListingCategory (numeric)'.
